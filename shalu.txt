@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second file
+=======
+ Hi Shalu how are you ?
+>>>>>>> db7f551f082a825e24c3995a172fbf8bc155f0ec
